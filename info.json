@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e4ef7b4547c45d143175382f99c8a3da3bf38f12",
+    "author": "Jeffrey R. Stevens <jeffrey.r.stevens@protonmail.com>",
+    "time": "2022-06-26 16:02:55",
+    "files": 4,
+    "merge": false,
+    "message": "Rename Getting started vignette to excluder\n"
+  },
+  "repo": "https://github.com/ropensci/excluder",
+  "pkg": "excluder"
+}
