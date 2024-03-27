@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "55ca8de779c57a7370832b074d0e7cf68aee064a",
+    "author": "Jeffrey Stevens <51374986+JeffreyRStevens@users.noreply.github.com>",
+    "time": "2024-01-27 17:41:28",
+    "files": 0,
+    "merge": true,
+    "message": "Merge branch 'main' into devel\n"
+  },
+  "repo": "https://github.com/ropensci/excluder",
+  "pkg": "excluder"
+}
