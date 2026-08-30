@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "8c358d99dbea9950cb66cd501ae4c2ae7707a35e",
+    "author": "Jeffrey Stevens <51374986+JeffreyRStevens@users.noreply.github.com>",
+    "time": "2025-07-07T17:39:41Z",
+    "files": 8,
+    "merge": false,
+    "message": "Change logo (#22)\n\n* Create herding dog logo\n\n* Update .gitignore\n\n* Squashed commit of the following:\n\ncommit 8c97af1d0b554da63457fcd7c701a8ff109e4042\nAuthor: Jeffrey R. Stevens <jeffrey.r.stevens@protonmail.com>\nDate:   Thu May 15 16:43:25 2025 -0500\n\n    Increment version number to 0.5.2.9000"
+  },
+  "repo": "https://github.com/ropensci/excluder",
+  "pkg": "excluder",
+  "time": "2026-08-30T07:44:33Z"
+}
